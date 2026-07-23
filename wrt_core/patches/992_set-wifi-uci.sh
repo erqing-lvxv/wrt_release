@@ -113,8 +113,8 @@ cmcc_rax3000m_wifi_cfg() {
 }
 
 redmi_ax6_wifi_cfg() {
-	configure_wifi 0 149 HE80 22 'Redmi_AX6_5G' '12345678'
-	configure_wifi 1 1 HE20 21 'Redmi_AX6' '12345678'
+	configure_wifi 0 149 HE80 22 'AX6_5G' 'POLK951-='
+	configure_wifi 1 1 HE20 21 'AX6' 'POLK951-='
 }
 
 qihoo_360v6_wifi_cfg() {
